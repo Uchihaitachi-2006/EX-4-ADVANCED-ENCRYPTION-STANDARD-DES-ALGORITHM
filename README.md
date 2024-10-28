@@ -1,4 +1,4 @@
-# IMPLEMENT DES ENCRYPTION AND DECRYPTION
+# EX-7 IMPLEMENT DES ENCRYPTION AND DECRYPTION
 
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
